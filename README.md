@@ -47,10 +47,14 @@ A simple counter built using React.js and Redux. This app allows users to increa
 
 I would like to acknowledge the following resources that were instrumental in developing this Social Media application:
 
-### [React Documentation](https://react.dev/)
+### [React](https://react.dev/)
 
 Offers detailed information and guidelines on React concepts, which were crucial in understanding and implementing features.
 
 ### [Bootstrap](https://getbootstrap.com/docs)
 
 Bootstrap provides a comprehensive collection of UI components that significantly enhance the UI of the application. Its responsive design and extensive prebuilt components enable quick and efficient development of visually appealing and user-friendly interfaces.
+
+### [Redux](https://redux.js.org/)
+
+Redux was essential for managing the application's state. The official documentation provided clear and concise guidance on how to effectively use Redux in this project, enabling a more predictable and maintainable state management process.
