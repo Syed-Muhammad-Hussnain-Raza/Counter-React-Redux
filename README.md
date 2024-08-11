@@ -2,12 +2,13 @@
 
 ## Description
 
-A simple counter built using React.js and Redux. This app allows users to increase, decrease the value by 1. It demonstrates basic React functionality and state management along with Redux.
+A simple counter built using React.js and Redux. This app allows users to increase, decrease the value by 1 on clicking **+1** and **-1** buttons respectively. A user can add or subtract any value by using text box and pressing **Add** or **Remove** button respectively. There is also a **Privacy Toggle** button to show and hide the counter value. It demonstrates basic React functionality and state management using Redux.
 
 ## Features
 
 - Increment
 - Decrement
+- Hide/Show Counter
 - Responsive design
 
 ## Installation
@@ -58,3 +59,7 @@ Bootstrap provides a comprehensive collection of UI components that significantl
 ### [Redux](https://redux.js.org/)
 
 Redux was essential for managing the application's state. The official documentation provided clear and concise guidance on how to effectively use Redux in this project, enabling a more predictable and maintainable state management process.
+
+## Author
+
+**Syed Muhammad Hussnain Raza**
